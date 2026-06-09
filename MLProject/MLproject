@@ -1,7 +1,0 @@
-name: social_network_ads
-
-conda_env: conda.yaml
-
-entry_points:
-  main:
-    command: "python ../Membangun_model/modelling.py"
